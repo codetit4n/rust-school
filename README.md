@@ -16,7 +16,10 @@ NOTE: Insert [LESSON_NUMBER] in the above link.
 
 Example: For lesson 1 it would be `https://blog.lokeshkr.com/rust-series-1`
 ## Lets get started
-In the coming days I will be learning and teaching rust here. Make sure to star/fork/watch this repo to get notified.
+- In the coming days I will be learning and teaching rust here. Make sure to star/fork/watch this repo to get notified. 
+- You can also subscribe to my newsletter [here](https://blog.lokeshkr.com/newsletter) for regular updates.
 
 ## Contributions
 Feel free to contribute to this project!
+
+Thanks!
