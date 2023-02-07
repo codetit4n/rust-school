@@ -1,0 +1,4 @@
+**/target
+
+# Keeping this for reference in lesson-2
+!/lesson-2/first_cargo_proj/target

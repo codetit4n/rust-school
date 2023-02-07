@@ -1,4 +1,4 @@
-# lesson 1 - Getting started!
+# Lesson 1 - Getting started!
 
 Topic: Getting started and writing your first rust program.
 
