@@ -10,9 +10,9 @@ Announcement: https://blog.lokeshkr.com/rust-series-announcement
 Blog: https://blog.lokeshkr.com
 
 ## Lessons:
-To view any particular lesson visit: `https://blog.lokeshkr.com/rust-series-[LESSON_NUMBER]`
+To view any particular lesson visit: `https://blog.lokeshkr.com/rust-series-LESSON_NUMBER`
 
-NOTE: Insert [LESSON_NUMBER] in the above link. 
+NOTE: Insert `LESSON_NUMBER` in the above link. 
 
 Example: For lesson 1 it would be `https://blog.lokeshkr.com/rust-series-1`
 ## Lets get started

@@ -1,6 +1,6 @@
-# Lesson 3 - Common Programming Concepts
+# Lesson 3 - Data Types, Variables, Mutability, and Constants
 
-Topic: Learn about common programming concepts for a strong Rust Foundation.
+Topic: Learn about common programming concepts like Data Types, Variables, Mutability, and Constants for a strong Rust Foundation.
 
 Link to the blog: https://blog.lokeshkr.com/rust-series-3
 
