@@ -1,6 +1,6 @@
 # Lesson 4 - Rust concepts: Compound Types, Scopes, Shadowing, and Functions
 
-Topic: Learn about common programming concepts like Rust concepts: Compound Types, Scopes, Shadowing, and Functions.
+Topic: Learn about Rust concepts: Compound Types, Scopes, Shadowing, and Functions.
 
 Link to the blog: https://blog.lokeshkr.com/rust-series-4
 
