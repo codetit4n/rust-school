@@ -1,12 +1,22 @@
-# Lesson 4 - 
+# Lesson 4 - Rust concepts: Compound Types, Scopes, Shadowing, and Functions
 
-Topic: Learn about common programming concepts like Data Types, Variables, Mutability, and Constants for a strong Rust Foundation.
+Topic: Learn about common programming concepts like Rust concepts: Compound Types, Scopes, Shadowing, and Functions.
 
 Link to the blog: https://blog.lokeshkr.com/rust-series-4
 
+## How to use this?
+This folder contains cargo projects for 3 concepts:
+1. compound-types
+2. scopes-and-shadowing
+3. functions
+
+
 ## Cargo commands
 
-- Make sure you are in the right directory: `cd variables`
+- Make sure you are in the right directory: `cd [concepts-name]`
+
+    NOTE: [topic-name] would be compound-types, scopes-and-shadowing or functions
+
 - Build project for debugging: `cargo build`
 - Build project for a release: `cargo build --release`
 - Build and Run project: `cargo run`
