@@ -13,9 +13,9 @@ This folder contains cargo projects for 3 concepts:
 
 ## Cargo commands
 
-- Make sure you are in the right directory: `cd [concepts-name]`
+- Make sure you are in the right directory: `cd [concept-name]`
 
-    NOTE: [topic-name] would be compound-types, scopes-and-shadowing or functions
+    NOTE: [concept-name] would be compound-types, scopes-and-shadowing or functions
 
 - Build project for debugging: `cargo build`
 - Build project for a release: `cargo build --release`

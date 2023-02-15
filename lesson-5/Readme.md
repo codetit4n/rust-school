@@ -1,21 +1,20 @@
-# Lesson 5 - Rust concepts: 
+# Lesson 5 - Rust concepts: Statements, Expressions, Control Flow, and Repetition
 
-<!-- Topic: Learn about Rust concepts: Compound Types, Scopes, Shadowing, and Functions. -->
+Topic: Rust Concepts: Statements, Expressions, Control Flow, and Repetition.
 
-Link to the blog: https://blog.lokeshkr.com/rust-series-5
+Link to the blog: COMING SOON
 
 ## How to use this?
-<!-- This folder contains cargo projects for 3 concepts:
-1. compound-types
-2. scopes-and-shadowing
-3. functions -->
+This folder contains cargo projects for 3 concepts:
+1. statements-and-expressions
+2. control-flow
 
 
 ## Cargo commands
 
-- Make sure you are in the right directory: `cd [concepts-name]`
+- Make sure you are in the right directory: `cd [concept-name]`
 
-    NOTE: [topic-name] would be compound-types, scopes-and-shadowing or functions
+    NOTE: [concept-name] would be statements-and-expressions or control-flow
 
 - Build project for debugging: `cargo build`
 - Build project for a release: `cargo build --release`
