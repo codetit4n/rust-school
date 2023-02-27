@@ -2,20 +2,11 @@
 
 Topic: References and Borrowing.
 
-Link to the blog: COMING SOON
-
-
-## How to use this?
-This folder contains cargo projects for 3 concepts:
-1. references
-
+Link to the article: https://blog.lokeshkr.com/rust-series-7
 
 ## Cargo commands
 
-- Make sure you are in the right directory: `cd [concept-name]`
-
-    NOTE: [concept-name] would be references
-
+- Make sure you are in the right directory: `cd references`
 - Build project for debugging: `cargo build`
 - Build project for a release: `cargo build --release`
 - Build and Run project: `cargo run`

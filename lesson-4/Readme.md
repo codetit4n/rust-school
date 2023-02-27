@@ -2,7 +2,7 @@
 
 Topic: Learn about Rust concepts: Compound Types, Scopes, Shadowing, and Functions.
 
-Link to the blog: https://blog.lokeshkr.com/rust-series-4
+Link to the article: https://blog.lokeshkr.com/rust-series-4
 
 ## How to use this?
 This folder contains cargo projects for 3 concepts:

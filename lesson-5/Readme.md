@@ -2,7 +2,7 @@
 
 Topic: Rust Concepts: Statements, Expressions, Control Flow, and Repetition.
 
-Link to the blog: https://blog.lokeshkr.com/rust-series-5
+Link to the article: https://blog.lokeshkr.com/rust-series-5
 
 ## How to use this?
 This folder contains cargo projects for 3 concepts:

@@ -2,7 +2,7 @@
 
 Topic: Learn about cargo basics to start your rust journey.
 
-Link to the blog: https://blog.lokeshkr.com/rust-series-2
+Link to the article: https://blog.lokeshkr.com/rust-series-2
 
 ## Cargo commands
 

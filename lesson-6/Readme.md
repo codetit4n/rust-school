@@ -2,7 +2,7 @@
 
 Topic: Ownership in Rust, along with some low level concepts.
 
-Link to the blog: https://blog.lokeshkr.com/rust-series-6
+Link to the article: https://blog.lokeshkr.com/rust-series-6
 
 
 ## Cargo commands
