@@ -2,7 +2,7 @@
 
 Topic: The Slice Type in Rust. And introduction to Ranges.
 
-Link to the article: COMING_SOON
+Link to the article: https://blog.lokeshkr.com/rust-series-8
 
 ## Cargo commands
 
