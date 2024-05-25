@@ -2,7 +2,7 @@
 
 Topic: Learn about common programming concepts like Data Types, Variables, Mutability, and Constants for a strong Rust Foundation.
 
-Link to the article: https://blog.lokeshkr.com/rust-series-3
+Link to the article: https://codetitan.hashnode.dev/rust-series-3
 
 ## Cargo commands
 

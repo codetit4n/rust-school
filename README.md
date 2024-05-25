@@ -1,25 +1,21 @@
 # rust-school
+
+> [!WARNING]\
+> Archived Repository.\
+> This repository is archived and no longer maintained!
+
 Welcome to the Rust School!
 
-Here, I will be learning and teaching rust starting from the rust book and then going deep into rust concepts.
+## Link
 
-## Important Links
-
-Announcement: https://blog.lokeshkr.com/rust-series-announcement
-
-Blog: https://blog.lokeshkr.com
+Blog: https://codetitan.hashnode.dev
 
 ## Lessons:
-To view any particular lesson visit: `https://blog.lokeshkr.com/rust-series-LESSON_NUMBER`
 
-NOTE: Insert `LESSON_NUMBER` in the above link. 
+To view any particular lesson visit: `https://codetitan.hashnode.dev/rust-series-LESSON_NUMBER`
 
-Example: For lesson 1 it would be `https://blog.lokeshkr.com/rust-series-1`
-## Lets get started
-- In the coming days I will be learning and teaching rust here. Make sure to star/fork/watch this repo to get notified. 
-- You can also subscribe to my newsletter [here](https://blog.lokeshkr.com/newsletter) for regular updates.
+NOTE: Insert `LESSON_NUMBER` in the above link.
 
-## Contributions
-Feel free to contribute to this project!
+Example: For lesson 1 it would be `https://codetitan.hashnode.dev/rust-series-1`
 
 Thanks!

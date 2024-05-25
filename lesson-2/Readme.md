@@ -2,7 +2,7 @@
 
 Topic: Learn about cargo basics to start your rust journey.
 
-Link to the article: https://blog.lokeshkr.com/rust-series-2
+Link to the article: https://codetitan.hashnode.dev/rust-series-2
 
 ## Cargo commands
 
@@ -13,6 +13,7 @@ Link to the article: https://blog.lokeshkr.com/rust-series-2
 - Check for errors: `cargo check`
 
 ## Things to note:
+
 I have left the `target` folder inside the `first_cargo_prog` for reference. Don't push this to git.
 
 Thanks!

@@ -2,20 +2,21 @@
 
 Topic: Rust Concepts: Statements, Expressions, Control Flow, and Repetition.
 
-Link to the article: https://blog.lokeshkr.com/rust-series-5
+Link to the article: https://codetitan.hashnode.dev/rust-series-5
 
 ## How to use this?
+
 This folder contains cargo projects for 3 concepts:
+
 1. statements-and-expressions
 2. control-flow
 3. repetition
-
 
 ## Cargo commands
 
 - Make sure you are in the right directory: `cd [concept-name]`
 
-    NOTE: [concept-name] would be statements-and-expressions, control-flow or repetition
+  NOTE: [concept-name] would be statements-and-expressions, control-flow or repetition
 
 - Build project for debugging: `cargo build`
 - Build project for a release: `cargo build --release`

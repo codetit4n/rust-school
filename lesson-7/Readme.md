@@ -2,7 +2,7 @@
 
 Topic: References and Borrowing.
 
-Link to the article: https://blog.lokeshkr.com/rust-series-7
+Link to the article: https://codetitan.hashnode.dev/rust-series-7
 
 ## Cargo commands
 
